@@ -1,0 +1,19 @@
+{
+    "Tests":
+    [
+        {
+            "TestLabel":"Raven",
+            "Versions": [
+                {
+                    "Version":"2.4",
+                    "MinAppVersion":"3.0",
+                    "Path":"raven",
+                    "IconPath":"as.png",
+                    "LabelTextColor":"#ed9434",
+                    "LabelBackgroundColor":"#4287f5"
+                }
+            ]
+        }
+    ],
+    "IconPath":"icons/"
+}
