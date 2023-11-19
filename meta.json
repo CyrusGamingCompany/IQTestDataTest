@@ -6,7 +6,7 @@
             "Versions": [
                 {
                     "Version":"2.5",
-                    "MinAppVersion":"3.0",
+                    "MinAppVersion":"1.0",
                     "Path":"raven",
                     "IconPath":"as.png",
                     "LabelTextColor":"#ed9434",
